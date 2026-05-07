@@ -17,9 +17,9 @@ unzip detect_vul_from_repo.zip
 cd detect_vul_from_repo
 ```
 
-## 🤗 Dataset Release
+## 🤗 Example Dataset Release
 
-> The dataset is available on Hugging Face:  
+> Due to the large size of full data, we provide the example dataset is available on Hugging Face:  
 > 👉 **[RepoVul](https://huggingface.co/datasets/26PaperSubmission/repo-vul)**
 
 
