@@ -1,6 +1,6 @@
 
 
-# Detecting Vulnerable Functions from Repositories with LLMs
+# Repo-Level Vulnerability Detection: Datasets and Evaluation with Large Language Models
 
 <div align="center">
   <img src="repo-level-vs-func-level-compare.png" alt="Our Repo-level Vul Detection" width="70%" />
