@@ -20,7 +20,7 @@ cd detect_vul_from_repo
 ## 🤗 Dataset Release
 
 > The dataset is available on Hugging Face:  
-> 👉 **[RepoVul]([https://huggingface.co/datasets/26PaperSubmission/lessleak-bench](https://huggingface.co/datasets/26PaperSubmission/repo-vul))**
+> 👉 **[RepoVul]([https://huggingface.co/datasets/26PaperSubmission/lessleak-bench](https://huggingface.co/datasets/26PaperSubmission/repo-vul)**
 
 
 
